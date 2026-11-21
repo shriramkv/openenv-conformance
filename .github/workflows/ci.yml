@@ -1,3 +1,3 @@
-cd agent-router-lint
-git remote add origin https://github.com/shriramkv/agent-router-lint.git
+cd openenv-conformance
+git remote add origin https://github.com/shriramkv/openenv-conformance.git
 git push -u origin main --force
