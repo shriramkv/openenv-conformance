@@ -1,0 +1,3 @@
+cd agent-router-lint
+git remote add origin https://github.com/shriramkv/agent-router-lint.git
+git push -u origin main --force
